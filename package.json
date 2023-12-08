@@ -1,0 +1,23 @@
+{
+  "name": "real_time_communication_feature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashdhingra/Real_Time_Communication_Feature.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashdhingra/Real_Time_Communication_Feature/issues"
+  },
+  "homepage": "https://github.com/akashdhingra/Real_Time_Communication_Feature#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
